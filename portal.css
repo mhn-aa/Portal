@@ -31,6 +31,7 @@ body {
   flex: 1;
   display: flex;
   justify-content: center;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .second-left-navbar {
@@ -58,9 +59,6 @@ body {
   flex: 1;
   display: flex;
   justify-content: center;
-}
-.last-left-navbar {
-  font-family: fantasy;
 }
 
 .portal-menu {
