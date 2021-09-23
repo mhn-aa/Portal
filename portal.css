@@ -97,3 +97,22 @@ body {
   justify-content: center;
   align-items: center;
 }
+.second-heading {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+.portal_picture {
+  border-radius: 15%;
+  width: 60px;
+  border-radius: 15%;
+}
+.radiant {
+  width: 180px;
+  border-radius: 8%;
+}
+
+.Radiant-box {
+  display: grid;
+  justify-content: center;
+}
