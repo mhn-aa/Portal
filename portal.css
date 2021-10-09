@@ -22,7 +22,16 @@ body {
   position: sticky;
   top: 0px;
   z-index: 1;
-  background-color: rgb(248, 190, 42);
+  background: linear-gradient(
+    to top,
+    aqua,
+    gold,
+    white,
+    white,
+    white,
+    gold,
+    navy
+  );
   display: flex;
   align-items: center;
 }
@@ -99,15 +108,13 @@ body {
 }
 .second-heading {
   display: grid;
-  justify-content: center;
-  align-items: center;
 }
 .portal_picture {
   border-radius: 15%;
   width: 60px;
   border-radius: 15%;
 }
-.radiant {
+.second-heading > img {
   width: 180px;
   border-radius: 8%;
 }
